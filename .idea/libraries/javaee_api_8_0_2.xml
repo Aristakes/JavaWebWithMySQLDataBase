@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javaee-api-8.0-2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-tomcat-9.0.29/lib/javaee-api-8.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-tomcat-9.0.29/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../tools/apache-tomcat-9.0.29/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
